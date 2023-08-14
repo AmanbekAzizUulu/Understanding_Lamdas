@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Amanbek
+ *
+ */
+module UnderstandingLambdas {
+}
